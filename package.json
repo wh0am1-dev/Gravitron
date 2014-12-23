@@ -1,0 +1,18 @@
+{
+  "main": "index.html",
+  "name": "gravitron",
+  "description": "a zero-gravity adventure puzzle",
+  "version": "0.1.0",
+  "keywords": [ "game", "phaser" ],
+  "window": {
+    "title": "Gravitron",
+    "frame": true,
+    "toolbar": false,
+    "width": 640,
+    "height": 480
+  },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}
