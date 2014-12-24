@@ -3,7 +3,7 @@ window.onload = function() {
 	// Variables
 
 	// Core
-	var game = new Phaser.Game(640, 480, Phaser.AUTO, '', { create: create, preload: preload, update: update, render: render });
+	var game = new Phaser.Game(640, 480, Phaser.AUTO, '', { create: create, preload: preload, update: update });
 
 	// Menu
 	var menu;
