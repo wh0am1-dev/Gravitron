@@ -9,6 +9,8 @@ Several years later, I decided to implement that old game from my childhood in c
 
 #### And here it is !!!
 
+[![Join the chat at https://gitter.im/Neko250/Gravitron](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Neko250/Gravitron?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ---
 
 ### Screenshots:
